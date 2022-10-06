@@ -3,4 +3,4 @@ In this repository I am sharing differents projects, internships, university cla
 
 - [**AI Undergraduate**](https://github.com/agusle/something_new_everyday/tree/master/AI_Undergraduate): All practices and projects related to [Artificial Intelligence Undergraduate of National University of Rosario](https://web.fceia.unr.edu.ar/es/carreras/carreras-de-pregrado/2165-tecnicatura-universitaria-en-inteligencia-artificial.html)
 - [**Sololearn**](https://github.com/agusle/something_new_everyday/tree/master/sololearn): Well known mobile and web app to master programming skills with a lot of different courses.
-- **Intensive Training**: These practices come from different online sources and from the bootcamps I have done.
+- [**Intensive Training**](https://github.com/agusle/something_new_everyday/tree/master/intensive_training): These practices come from different online sources and from the bootcamps I have done.

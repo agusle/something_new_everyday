@@ -1,6 +1,6 @@
 # Something new every day 🎓
 <p align="left">
-    <a href="https://github.com/agusle/something_new_everyday/commits/main">
+    <a href="https://github.com/agusle/something_new_everyday/commits/master">
     <img src="https://img.shields.io/github/last-commit/agusle/credit-risk-analysis-using-deep-learning?logo=Github"
          alt="GitHub last commit">
 </p>
